@@ -14,4 +14,4 @@ cost = float(input("The cost of tile is: "))
 
 # Then we create the program, using these features in a formula to calculate the total cost of tile.
 
-print("The total cost of tile of %.2f x %.2f floor is: %.2f " % (width, height, width * height * cost))
+print("The total cost of tile of %.2f x %.2f floor is: $%.2f " % (width, height, width * height * cost))
