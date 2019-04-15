@@ -1,4 +1,7 @@
-# FizzBuzz Project
+#!/usr/bin/env python3
+
+### FizzBuzz Project ###
+
 # The program prints numbers from 1 to 100. 
 # It prints "Fizz" for the multiples of two.
 # It prints "Buzz" for the multiples of seven.
