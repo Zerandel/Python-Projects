@@ -10,7 +10,7 @@ width = float(input("The width of tile is: "))
 
 height = float(input("The height of tile is: "))
 
-cost = float(input("The cost of tile is: "))
+cost = float(input("The cost of tile is: $"))
 
 # Then we create the program, using these features in a formula to calculate the total cost of tile.
 
